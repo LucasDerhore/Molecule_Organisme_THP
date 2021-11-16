@@ -2,7 +2,7 @@
 
 ## Le project :
 
-<hr>
+
 
 
 - Une navbar
@@ -20,7 +20,7 @@
 
 ## Equipe 100Code
 
-<hr>
+
 
 - Valentin
 - Lucas
